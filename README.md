@@ -1,6 +1,6 @@
 # Git TP
 
-- Feracci Aurélien / Initiateur
-- Bachelerie Mathieu / contributeur-1
-- Gomez Luka / contributeur-2
+- Feracci Aurélien / contributeur-1
+- Bachelerie Mathieu / contributeur-2
+- Gomez Luka / Initiateur
 - Xu Sébastien / contributeur-3
