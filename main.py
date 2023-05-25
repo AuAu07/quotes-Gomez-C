@@ -1,5 +1,5 @@
 from functions import *
-
+ 
 
 def menu():
     print("\n==== Programming Quotes ====")
