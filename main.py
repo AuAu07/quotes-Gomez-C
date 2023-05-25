@@ -52,6 +52,7 @@ def main():
             print("Invalid input")
             
 add_quote(quotes, filename)
+ 
 
 if __name__ == "__main__":
     main()
