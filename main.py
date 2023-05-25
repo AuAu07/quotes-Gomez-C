@@ -7,6 +7,7 @@ def menu():
     print("2. All quotes")
     print("3. Exit")
 
+add_quote(quotes, filename)
 
 def main():
     while True:
